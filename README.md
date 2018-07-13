@@ -1,2 +1,4 @@
-# I use that repository to regroup my finding and experimentation about DevOps
+# DevOps Way
+
+I use that repository to group my finding and experimentation about DevOps
 
